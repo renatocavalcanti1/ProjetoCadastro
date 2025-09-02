@@ -1,13 +1,13 @@
-package com.projeto.demo;
+package com.projeto.CadastroDeNinjas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GerenciadorDeTarefasApplication {
+public class CadastroDeNinjasApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GerenciadorDeTarefasApplication.class, args);
+		SpringApplication.run(CadastroDeNinjasApplication.class, args);
 	}
 
 }

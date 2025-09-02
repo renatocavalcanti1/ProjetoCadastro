@@ -1,10 +1,10 @@
-package com.projeto.demo;
+package com.projeto.CadastroDeNinjas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GerenciadorDeTarefasApplicationTests {
+class CadastroDeNinjasApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.projeto</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>CadastroDeNinjas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Gerenciador de Tarefas</name>
 	<description>Demo project for Spring Boot</description>
